@@ -1,0 +1,25 @@
+
+Jul 15, 2023 13:55:59.58 NEW SESSION
+Jul 15, 2023 13:55:59.58 [6752:23952:0715/135559.581:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 15, 2023 13:56:05.77 [6752:23952:0715/135605.769:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 16, 2023 16:10:28.45 NEW SESSION
+Jul 16, 2023 16:10:28.45 [11320:18252:0716/161028.459:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 16, 2023 16:10:28.89 [11320:17608:0716/161028.897:ERROR:device_event_log_impl.cc(222)] [16:10:28.806] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 16, 2023 16:50:06.21 [11320:18252:0716/162557.555:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jul 17, 2023 06:47:26.85 NEW SESSION
+Jul 17, 2023 06:47:26.85 [2584:9796:0717/064726.854:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 17, 2023 06:47:52.02 [2584:9796:0717/064752.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jul 17, 2023 07:54:52.06 [5324:23084:0717/075452.064:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Aug 16, 2023 20:51:03.53 NEW SESSION
+Aug 16, 2023 20:51:03.53 [16768:25036:0816/205103.520:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Aug 16, 2023 20:51:06.83 [16768:25036:0816/205106.833:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 16, 2023 20:51:06.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Sep 01, 2023 11:47:24.21 NEW SESSION
+Sep 01, 2023 11:47:24.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Sep 05, 2023 20:13:46.97 NEW SESSION
+Sep 05, 2023 20:13:46.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
